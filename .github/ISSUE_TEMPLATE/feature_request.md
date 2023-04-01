@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: [BUDY/HUD/CREATOR(choose one)]Feature request
 about: Suggest an idea for this project
 title: ''
 labels: ''
